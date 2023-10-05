@@ -4,7 +4,6 @@
  *
  * main.c
  * Author: Ahmed Radwan
- *
  */
 
 #define GPIOA_ADDRESS 0x40020000
