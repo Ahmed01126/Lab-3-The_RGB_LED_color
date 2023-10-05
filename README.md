@@ -20,7 +20,7 @@ actions in sequence:<br />
 -------------------------------------------------------------------------------------------------------------
 
 
-#HW assignment2:<br />
+## HW assignment2:<br />
 RGB LED controller.<br />
 The system is consisted of 1 push button and 1 RGB LED.<br /> The Push button is connected to PORTB pin 3.<br />
 The 3 LED pins are connected to port B pins 5, 6 and 7.<br /> The Push button is active low, without external
